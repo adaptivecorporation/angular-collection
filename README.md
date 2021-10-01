@@ -2,7 +2,7 @@
 ## The Adaptive Corporation
 Collection of Angular configuration files, server side rendering related files, and other items.
 
-######Last Updated 10/1/2021 - watch this repository for upcoming changes.
+Last Updated 10/1/2021 - watch this repository for upcoming changes.
 
 ## tsconfig/tsconfig.json
 
